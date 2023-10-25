@@ -1,6 +1,6 @@
-#define USERSFILE "/var/lib/extrausers/passwd"
-#define SHADOWFILE "/var/lib/extrausers/shadow"
-#define GROUPSFILE "/var/lib/extrausers/group"
+#define USERSFILE "/usr/lib/passwd"
+#define SHADOWFILE "/usr/lib/shadow"
+#define GROUPSFILE "/usr/lib/group"
 #define MINUID 500
 #define MINGID 500
 #define USERSGID 100
